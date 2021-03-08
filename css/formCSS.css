@@ -1,0 +1,8 @@
+form{
+    background: lightgreen;
+    padding: 15px;
+    border-radius: 15px;
+}
+input,textarea,button{
+    margin: 8px 0;
+}
